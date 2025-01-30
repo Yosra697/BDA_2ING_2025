@@ -17,7 +17,6 @@ Ce dossier contient le premier travail pratique du cours **Bases de Données Ava
 3. **Manipulation des données** : Tester les fonctions SQL sur la table `DUAL` et exécuter les requêtes demandées.  
 
 ## 🚀 Exemples de tâches  
-- Tester les fonctions **SYSDATE, TO_CHAR, RPAD, LPAD, SUBSTR, LENGTH, ROUND, TRUNC, TO_DATE, EXTRACT**.  
 - Créer et manipuler des tables avec Oracle SQL.  
 - Exécuter des requêtes d’affichage et d’agrégation sur une base universitaire.  
 
