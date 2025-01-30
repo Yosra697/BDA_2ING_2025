@@ -1,21 +1,24 @@
-# 📂 Bases de Données Avancées
+# 📂 TP1 - Fonctions SQL et Requêtes avec Oracle APEX  
 
-Ce dépôt contient tous les travaux pratiques réalisés dans le cadre du cours **Bases de Données Avancées**.
+Ce dossier contient le premier travail pratique du cours **Bases de Données Avancées**, réalisé avec **Oracle APEX**.  
 
-## 📁 Contenu
-Chaque dossier correspond à un travail pratique (TP) et contient :
+## 📌 Objectif  
+- Découvrir et manipuler les fonctions SQL sous **Oracle APEX**.  
+- Exécuter des requêtes SQL pour interroger une base de données.  
+- Comprendre la structure et le schéma relationnel d’une base.  
 
-✔ **Énoncé** (PDF) du TP <br>  
+## 📁 Contenu  
+✔ **📄 Enoncé TP1** - Instructions et exercices à réaliser.  
+✔ **📄 Correction TP1** - Solutions et requêtes SQL associées.  
 
-✔ **Fichiers SQL** associés (si disponible) <br>  
+## 🛠 Instructions  
+1. **Accès à Oracle APEX** : Se connecter à l'environnement Oracle APEX fourni par l'université.  
+2. **Exécution des scripts** : Utiliser l’éditeur SQL d’APEX pour exécuter les requêtes.  
+3. **Manipulation des données** : Tester les fonctions SQL sur la table `DUAL` et exécuter les requêtes demandées.  
 
-✔ **Corrections** ou solutions (si applicable) <br>  
+## 🚀 Exemples de tâches  
+- Tester les fonctions **SYSDATE, TO_CHAR, RPAD, LPAD, SUBSTR, LENGTH, ROUND, TRUNC, TO_DATE, EXTRACT**.  
+- Créer et manipuler des tables avec Oracle SQL.  
+- Exécuter des requêtes d’affichage et d’agrégation sur une base universitaire.  
 
-## 📌 Objectif
-Fournir une collection de TP permettant d’approfondir la compréhension et l’utilisation des bases de données relationnelles.
-
-## 🔗 Contribuer
-Les contributions sont les bienvenues ! N’hésite pas à proposer des ajouts ou améliorations via **Pull Request**.
-
----
-📌 *Usage académique uniquement.*
+📌 *Toutes les requêtes doivent être testées et validées dans Oracle APEX.*  
