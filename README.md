@@ -3,8 +3,10 @@
 Ce dépôt contient tous les travaux pratiques réalisés dans le cadre du cours **Bases de Données Avancées**.
 
 ## 📁 Contenu
-- **CM1DB.pdf** : Support de cours sur les bases de données avancées.
-- **BDA TP10exo1.pdf** : Travail pratique sur la création et manipulation de bases de données SQL.
+Chaque dossier correspond à un travail pratique (TP) et contient :
+✔ **Énoncé** (PDF) du TP
+✔ **Fichiers SQL** associés (si disponible)
+✔ **Corrections** ou solutions (si applicable)
 
 ## 📌 Objectif
 Fournir une collection de TP permettant d’approfondir la compréhension et l’utilisation des bases de données relationnelles.
