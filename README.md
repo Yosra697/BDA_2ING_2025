@@ -4,8 +4,11 @@ Ce dépôt contient tous les travaux pratiques réalisés dans le cadre du cours
 
 ## 📁 Contenu
 Chaque dossier correspond à un travail pratique (TP) et contient :
+
 ✔ **Énoncé** (PDF) du TP
+
 ✔ **Fichiers SQL** associés (si disponible)
+
 ✔ **Corrections** ou solutions (si applicable)
 
 ## 📌 Objectif
