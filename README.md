@@ -1,6 +1,6 @@
 # 📂 Bases de Données Avancées
 
-Ce dépôt contient tous les travaux pratiques réalisés dans le cadre du cours **Bases de Données Avancées**.
+Ce dépôt contient tous les travaux pratiques réalisés dans le cadre du cours **Bases de Données Avancées** avec **Oracle Apex**.
 
 ## 📁 Contenu
 Chaque dossier correspond à un travail pratique (TP) et contient :
